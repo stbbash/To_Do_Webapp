@@ -1,5 +1,3 @@
----
-
 # To_Do Webapp
 
 This is a To_Do Webapp implemented with the Django web framework, enhanced to make use of the Django REST Framework (DRF) API. Every Python package installation was done in a virtual environment (`vbash`). The app includes CORS configuration, allowing URLs from all origins to perform READ, UPDATE, and DELETE (CRUD) operations on the API's data. Additionally, the app is designed to accept JSON format on the URLs.
@@ -89,22 +87,15 @@ The API endpoints accept and return data in JSON format. Ensure that the `Conten
 ## Screenshots
 
 - **REST API Overview:**
-  ![REST API](REST API.JPG)
 
 - **To-Do Details:**
-  ![To-Do Details](to_do details.JPG)
 
 - **Login Page:**
-  ![Login Page](to_do login.JPG)
 
 - **Register Page:**
-  ![Register Page](to_do register.JPG)
 
 - **To-Do Tasks:**
-  ![To-Do Tasks](to_do tasks.JPG)
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
----
