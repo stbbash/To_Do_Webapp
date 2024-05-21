@@ -1,5 +1,3 @@
-Here's a tweaked version of your README file for the To_Do Webapp project:
-
 ---
 
 # To_Do Webapp
